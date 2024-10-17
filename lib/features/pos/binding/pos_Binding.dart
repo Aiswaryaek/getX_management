@@ -1,13 +1,13 @@
 
 
-import 'package:get/get.dart';
+// import 'package:get/get.dart';
 
-import '../controller/pos_controller.dart';
+// import '../controller/pos_controller.dart';
 
-class PosBinding extends Bindings{
+// class PosBinding extends Bindings{
 
-  @override
-  void dependencies() {
-    Get.lazyPut(() => POSController());
-  }
-}
+//   @override
+//   void dependencies() {
+//     Get.lazyPut(() => POSController());
+//   }
+// }
